@@ -1,0 +1,20 @@
+Dynamically Allocated Open-Addressing Hash Table with Binary Chaining
+
+Created as a project for the course CSC190
+
+Acts as a fully functional HashTable
+
+Compile with the hashtableTester.c file to test out code.
+
+Possible actions in the tester:
+ create - creates a hash table
+ destroy - destroys a hash table object
+ print - prints the hash table object
+ set - sets a key/value pair in the hashtable
+ read - displays the value of a key in the table
+ delete - deletes a key/value pair
+ info - displays information about the table
+ setresize - sets the resize behavior of the table
+ quit - destroys the hashtable if applicable, then quits
+
+See the HashTable.h file for description of each function
